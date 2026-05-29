@@ -1,6 +1,6 @@
-# Group-Policy
+# Group-Policy Password Policy
 
-Password Policy
+
 
 ![image alt]()
 I’m creating a new GPO and naming it Password Policy. This is what I’ll use to enforce password rules across the domain.
